@@ -17,7 +17,7 @@
 → YES24/Interpark에서 공연 정보 크롤링 → Notion 자동 등록  
 👉 [레포 보기](https://github.com/nhjin/concertCrawling)
 
-### 3. 🪖 헬멧 감지 AI 서비스
+### 3. 🛴 헬멧 감지 AI 서비스
 **kosasss**  
 → YOLOv5 + Spring Boot + 로그인 + 커뮤니티까지 포함  
 👉 [레포 보기](https://github.com/nhjin/kosasss)
