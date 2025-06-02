@@ -51,4 +51,3 @@
     * [회사 AWS 아키텍처](https://nostalgic-tang-39f.notion.site/AWS-1f7cec9b982181d794d3d210ccdec581?pvs=4) — 실사용 서비스의 클라우드 구조
 
 99. 기타 (자잘하게 정리하는 것들)
-    * []() 
